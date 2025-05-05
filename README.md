@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Ping 🍎  
 
-- engineer (ai/ml)  
+- 🧑‍💻 Engineer (AI/ML)  
 
-- building recommendation/search/ad systems by day, exploring quant finance by night  
+- 🔭 Building recommendation/ad systems⚙️ by day, exploring quant finance💰 by night  
 
-- taking small steps each day to get better at my craft  
+- 🌱 Taking small steps each day to get better at my craft  
 
 <!--
 **cp2phi/cp2phi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
