@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Ping 🍎  
+### 👋 Hi, I'm Ping 🍎  
 
 - 🧑‍💻 Engineer (AI/ML)  
 
-- 🔭 Building recommendation/ad systems⚙️ by day, exploring quant finance💰 by night  
+- 🔭 Building **Recommendation/Ad systems** ⚙️ by day, exploring **Quant Finance** 💰 by night  
 
 - 🌱 Taking small steps each day to get better at my craft  
 
