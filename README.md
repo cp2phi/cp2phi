@@ -2,7 +2,7 @@
 
 - 🧑‍💻 AI/ML Engineer
 
-- 🔍 Building Recommendation/Advertising systems by day, exploring Quant Finance by night 
+- 🔍 Building Recommendation/Advertising systems by day ☕️, exploring Quant Finance by night 🍷
 
 - 🌱 Taking [small steps](https://github.com/cp2phi/small-steps) each day to get better at my craft  
 
